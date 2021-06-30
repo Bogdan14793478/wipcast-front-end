@@ -1,0 +1,32 @@
+{
+  "shop": [
+  {
+    "id": 1,
+    "title": "lorenIpson",
+    "category": "accessories",
+    "price": 20,
+    "image": "/images/shop/card1"
+  },
+  {
+    "id": 2,
+    "title": "lorenIpson",
+    "category": "axsessuar",
+    "price": 18,
+    "image": "/images/shop/card2"
+  },
+  {
+    "id": 3,
+    "title": "lorenIpson",
+    "category": "axsessuar",
+    "price": 25,
+    "image": "/images/shop/card3"
+  },
+  {
+    "id": 4,
+    "title": "lorenIpson",
+    "category": "axsessuar",
+    "price": 20,
+    "image": "/images/shop/card4"
+  }
+]
+}
